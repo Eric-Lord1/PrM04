@@ -1,0 +1,49 @@
+{
+    "devices" : {
+        "items count": 4,
+        "device" : [
+            {
+                "name" : "Matebook",
+                "company" : "Huawei",
+                "inches" : 13,
+                "stock" : true,
+                "price" : 780,
+                "currency_price" : "€",
+                "internal_info" : "C:\\Documentos\\files\\matebook.json",
+                "type" : "computer"
+            },
+            {
+                "name" : "Titan",
+                "company" : "Slimbook",
+                "inches" : 15.6,
+                "stock" : true,
+                "price" : 1949,
+                "currency_price" : "€",
+                "slogan" : "We've proposed 2 slogans: \"Slymbook Titan: Unleash Power is Every Pixel\" OR \"Slimbook Titan: Powerhouse Performance\"",
+                "type" : "computer"
+            },
+            {
+                "name" : "Matepad",
+                "company" : "Huawei",
+                "inches" : 10.4,
+                "stock" : false,
+                "price" : null,
+                "currency_price" : "€",
+                "characteristics" : null,
+                "type" : "tablet"
+            },
+            {
+                "name" : "P50 Pocket",
+                "company" : "Huawei",
+                "inches" : 9,
+                "stock" : true,
+                "price" : 999,
+                "currency_price" : "€",
+                "discount_price" : "3%",
+                "type" : "smartphone",
+                "characteristics" : ["5000mhA battery","Super AMOLED Plus", "USB-C"]
+            }
+        ]
+    }
+       
+}
