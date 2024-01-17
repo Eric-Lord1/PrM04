@@ -1,0 +1,110 @@
+{
+    "pokemons" : [
+        {
+            "nom" : "Gengar",
+            "tipus" : "Fantasma/Veneno",
+            "pes" :  "40,5 Kg",
+            "altura" : "1,5 m",
+            "estadistiques" : {
+                    "velocitat" : "3", 
+                    "fortalesa" : "3",
+                    "precisio" : "5",
+                    "resistencia" : "4" 
+            },
+            "moviments" : [
+                {
+                    "nom" : "Bola Sombra",
+                    "descripcio" : "20% de probabilitat de baixar la defensa especial del objetivo",
+                    "potencia" : 80,
+                    "contacte" : "Especial"
+                },
+                {
+                    "nom" : "Onda Toxica",
+                    "descripcio" : "10% de probabilitat de envenenar al pokemon adjacent",
+                    "potencia" : 95,
+                    "contacte" : "Especial"
+                },
+                {
+                    "nom" : "Onda Certera",
+                    "descripcio" : "10% de probabilitat de baixar la defensa especial del objetivo",
+                    "potencia" : 120,
+                    "contacte" : "Especial"
+                },
+                {
+                    "nom" : "Substitut",
+                    "descripcio" : "El usuari es treu 1/4 de la vida maxima per a posar un substitut",
+                    "potencia" : 0,
+                    "contacte" : "No damage"
+                }
+            ],
+            "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20200428203046/Gengar.png/300px-Gengar.png",
+            "evolucions" : [
+                {
+                    "nom" : "Gastly",
+                    "nivell_evolucio" : "1"
+                },
+                {
+                    "nom" : "Haunter",
+                    "nivell_evolucio" : "25"
+                },
+                {
+                    "nom" : "Gengar",
+                    "nivell_evolucio" : "Intercanvi"
+                }
+            ]
+        },
+        {
+            "nom" : "Mudkip",
+            "tipus" : "Aigua",
+            "pes" :  "7,6 Kg",
+            "altura" : "0,4 m",
+            "estadistiques" : {
+                    "velocitat" : "4", 
+                    "fortalesa" : "4",
+                    "precisio" : "3",
+                    "resistencia" : "5" 
+            },
+            "moviments" : [
+                {
+                    "nom" : "Cascada",
+                    "descripcio" : "20% de probabilitat de retrocedir el objetivo",
+                    "potencia" : 80,
+                    "contacte" : "Fisic"
+                },
+                {
+                    "nom" : "Raig Gel",
+                    "descripcio" : "10% de probabilitat de congelar al pokemon rival",
+                    "potencia" : 90,
+                    "contacte" : "Especial"
+                },
+                {
+                    "nom" : "Fuerza Bruta",
+                    "descripcio" : "Baixa l'atac i la defensa del usuari",
+                    "potencia" : 120,
+                    "contacte" : "Fisic"
+                },
+                {
+                    "nom" : "Doble Filo",
+                    "descripcio" : "Et retorna el 33% del mal que generes",
+                    "potencia" : 120,
+                    "contacte" : "Fisico"
+                }
+            ],
+            "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ae/latest/20230706064339/Mudkip.png/300px-Mudkip.png",
+            "evolucions" : [
+                {
+                    "nom" : "Mudkip",
+                    "nivell_evolucio" : "1"
+                },
+                {
+                    "nom" : "Marshtomp",
+                    "nivell_evolucio" : "16"
+                },
+                {
+                    "nom" : "Swampert",
+                    "nivell_evolucio" : "36"
+                }
+            ]
+        }     
+    ]
+}
