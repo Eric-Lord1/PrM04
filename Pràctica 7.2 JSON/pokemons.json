@@ -16,25 +16,25 @@
                     "nom" : "Bola Sombra",
                     "descripcio" : "20% de probabilitat de baixar la defensa especial del objetivo",
                     "potencia" : 80,
-                    "contacte" : "Especial"
+                    "contacte" : "false"
                 },
                 {
                     "nom" : "Onda Toxica",
                     "descripcio" : "10% de probabilitat de envenenar al pokemon adjacent",
                     "potencia" : 95,
-                    "contacte" : "Especial"
+                    "contacte" : "false"
                 },
                 {
                     "nom" : "Onda Certera",
                     "descripcio" : "10% de probabilitat de baixar la defensa especial del objetivo",
                     "potencia" : 120,
-                    "contacte" : "Especial"
+                    "contacte" : "false"
                 },
                 {
                     "nom" : "Substitut",
                     "descripcio" : "El usuari es treu 1/4 de la vida maxima per a posar un substitut",
                     "potencia" : 0,
-                    "contacte" : "No damage"
+                    "contacte" : "false"
                 }
             ],
             "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20200428203046/Gengar.png/300px-Gengar.png",
@@ -69,25 +69,25 @@
                     "nom" : "Cascada",
                     "descripcio" : "20% de probabilitat de retrocedir el objetivo",
                     "potencia" : 80,
-                    "contacte" : "Fisic"
+                    "contacte" : "true"
                 },
                 {
                     "nom" : "Raig Gel",
                     "descripcio" : "10% de probabilitat de congelar al pokemon rival",
                     "potencia" : 90,
-                    "contacte" : "Especial"
+                    "contacte" : "false"
                 },
                 {
                     "nom" : "Fuerza Bruta",
                     "descripcio" : "Baixa l'atac i la defensa del usuari",
                     "potencia" : 120,
-                    "contacte" : "Fisic"
+                    "contacte" : "true"
                 },
                 {
                     "nom" : "Doble Filo",
                     "descripcio" : "Et retorna el 33% del mal que generes",
                     "potencia" : 120,
-                    "contacte" : "Fisico"
+                    "contacte" : "true"
                 }
             ],
             "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ae/latest/20230706064339/Mudkip.png/300px-Mudkip.png",
