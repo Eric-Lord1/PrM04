@@ -40,14 +40,17 @@
             "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20200428203046/Gengar.png/300px-Gengar.png",
             "evolucions" : [
                 {
+                    "id" : 0092,
                     "nom" : "Gastly",
                     "nivell_evolucio" : "1"
                 },
                 {
+                    "id" : 0093,
                     "nom" : "Haunter",
                     "nivell_evolucio" : "25"
                 },
                 {
+                    "id" : 0094,
                     "nom" : "Gengar",
                     "nivell_evolucio" : "Intercanvi"
                 }
@@ -93,14 +96,17 @@
             "imatge" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/ae/latest/20230706064339/Mudkip.png/300px-Mudkip.png",
             "evolucions" : [
                 {
+                    "id" : 0258,
                     "nom" : "Mudkip",
                     "nivell_evolucio" : "1"
                 },
                 {
+                    "id" : 0259,
                     "nom" : "Marshtomp",
                     "nivell_evolucio" : "16"
                 },
                 {
+                    "id" : 0260,
                     "nom" : "Swampert",
                     "nivell_evolucio" : "36"
                 }
