@@ -3,13 +3,15 @@
         {
             "nom" : "Gengar",
             "tipus" : "Fantasma/Veneno",
-            "pes" :  "40,5 Kg",
-            "altura" : "1,5 m",
+            "pes" :  40.5,
+            "unitat_pes" : "Kilograms",
+            "altura" : 1.5,
+            "unitat_altura" : "Metres",
             "estadistiques" : {
-                    "velocitat" : "3", 
-                    "fortalesa" : "3",
-                    "precisio" : "5",
-                    "resistencia" : "4" 
+                    "velocitat" : 3, 
+                    "fortalesa" : 3,
+                    "precisio" : 5,
+                    "resistencia" : 4 
             },
             "moviments" : [
                 {
@@ -42,12 +44,12 @@
                 {
                     "id" : 92,
                     "nom" : "Gastly",
-                    "nivell_evolucio" : "1"
+                    "nivell_evolucio" : 1
                 },
                 {
                     "id" : 93,
                     "nom" : "Haunter",
-                    "nivell_evolucio" : "25"
+                    "nivell_evolucio" : 25
                 },
                 {
                     "id" : 94,
@@ -59,13 +61,15 @@
         {
             "nom" : "Mudkip",
             "tipus" : "Aigua",
-            "pes" :  "7,6 Kg",
-            "altura" : "0,4 m",
+            "pes" :  7.6,
+            "unitat_pes" : "Kilograms",
+            "altura" : 0.4,
+            "unitat_altura" : "Metres",
             "estadistiques" : {
-                    "velocitat" : "4", 
-                    "fortalesa" : "4",
-                    "precisio" : "3",
-                    "resistencia" : "5" 
+                    "velocitat" : 4, 
+                    "fortalesa" : 4,
+                    "precisio" : 3,
+                    "resistencia" : 5 
             },
             "moviments" : [
                 {
@@ -98,17 +102,17 @@
                 {
                     "id" : 258,
                     "nom" : "Mudkip",
-                    "nivell_evolucio" : "1"
+                    "nivell_evolucio" : 1
                 },
                 {
                     "id" : 259,
                     "nom" : "Marshtomp",
-                    "nivell_evolucio" : "16"
+                    "nivell_evolucio" : 16
                 },
                 {
                     "id" : 260,
                     "nom" : "Swampert",
-                    "nivell_evolucio" : "36"
+                    "nivell_evolucio" : 36
                 }
             ]
         }     
